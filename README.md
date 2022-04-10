@@ -1,6 +1,11 @@
 # simple-weather-web-application
 
-Built using **HTML**, **JavaScript**; JavaScript framework used: **node.js**; node.js framework used: **express.js**; API used: **<a href="https://openweathermap.org/api" target="_blank">Open Weather API</a>**; Data format: **JSON**
+Built using **HTML**, **JavaScript**; <br>
+JavaScript framework used: **node.js**; <br>
+node.js framework used: **express.js**; <br>
+npm packages used: **body-parser** <br>
+API used: **<a href="https://openweathermap.org/api" target="_blank">Open Weather API</a>**; <br>
+Data format: **JSON** <br>
 
 Run the following commands in the terminal, after changing to the directory where the files (**index.html**, **app.js** **only**) of the program are saved, and before starting the server (to include the necessary **node-modules**) as well as the **package.json** file (which would include info regarding the server application):
 
